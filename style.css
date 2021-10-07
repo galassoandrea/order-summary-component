@@ -13,6 +13,7 @@ body {
   background-color: var(--pale-blue);
   text-align: center;
   font-size: 1rem;
+  margin: auto 0;
 }
 
 .card {
@@ -122,6 +123,7 @@ body {
 
 .attribution {
   margin-top: 30px;
+  width: 420px;
   font-family: "Red Hat Display", sans-serif;
   color: var(--dark-blue);
 }
