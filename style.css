@@ -142,11 +142,11 @@ body {
 @media only screen and (max-width: 450px) {
   
   .card , .attribution {
-    width: 90%;
+    width: 95%;
   }
   
   .text-container {
-    margin-right: 50px;
+    margin: 0 auto;
   }
 
   .music-icon {
