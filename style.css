@@ -140,6 +140,14 @@ body {
 /** Small screens */
 
 @media only screen and (max-width: 450px) {
+  
+  .card , .attribution {
+    width: 90%;
+  }
+  
+  .text-container {
+    margin-right: 50px;
+  }
 
   .music-icon {
     padding: 15px 16px 15px 14px;
